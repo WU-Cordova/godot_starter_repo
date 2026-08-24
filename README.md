@@ -1,13 +1,5 @@
 # CS 276 · Lab N: Lab Title
 
-<!--
-  INSTRUCTOR NOTE (delete before publishing a lab's template):
-  This repo is the base starter template for CS 276 lab assignment repos
-  (Classroom50). Per lab: update the title above, fill in the Overview,
-  add the lab's starter Godot project at the repo root, and update the
-  "What's in this repo" table. Everything else is lab-agnostic.
--->
-
 ![Godot 4.5](https://img.shields.io/badge/Godot-4.5-478cbf?logo=godotengine&logoColor=white)
 ![Course](https://img.shields.io/badge/CS%20276-Game%20Systems%20in%20Godot-ff2e97)
 
@@ -71,7 +63,3 @@ Shipping uncredited or unlicensed assets is an academic honesty violation in thi
 ## Academic honesty
 
 Labs are **individual**. Discussing concepts and debugging strategies is encouraged; copying code from classmates, previous semesters, or elsewhere is not. Generative AI may help you explore and study, but you must be able to **explain, reproduce, and defend** everything you submit, and any AI assistance must be **disclosed** in your submission. See the syllabus for the full policy.
-
-## Getting help
-
-Bring questions to class, come to **student hours** (MW 10:15–11:15 AM and T/Th 11:15 AM–12:15 PM, Ford 210, or book at [lpcordova.phd/meet](https://lpcordova.phd/meet)), or email [LPCordova@willamette.edu](mailto:LPCordova@willamette.edu). Setup problems are exactly what student hours are for — bring your laptop.
