@@ -88,4 +88,4 @@ Labs are **individual**. Discussing concepts and debugging strategies is encoura
 
 ## Getting help
 
-Bring questions to class, come to **student hours** (MW 10:15–11:15 AM and T/Th 11:15 AM–12:15 PM, Ford 210, or book at [lpcordova.phd/meet](https://lpcordova.phd/meet)), or email [LPCordova@willamette.edu](mailto:LPCordova@willamette.edu). Setup problems are exactly what student hours are for — bring your laptop.
+Bring questions to class, come to **student hours** (current times and booking at [lpcordova.phd/meet](https://lpcordova.phd/meet)), or email [LPCordova@willamette.edu](mailto:LPCordova@willamette.edu). Setup problems are exactly what student hours are for — bring your laptop.
