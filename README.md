@@ -1,5 +1,13 @@
 # CS 276 · Lab N: Lab Title
 
+<!--
+  INSTRUCTOR NOTE (delete before publishing a lab's template):
+  This repo is the base starter template for CS 276 lab assignment repos
+  (Classroom50). Per lab: update the title above, fill in the Overview,
+  add the lab's starter Godot project at the repo root, and update the
+  "What's in this repo" table. Everything else is lab-agnostic.
+-->
+
 ![Godot 4.5](https://img.shields.io/badge/Godot-4.5-478cbf?logo=godotengine&logoColor=white)
 ![Course](https://img.shields.io/badge/CS%20276-Game%20Systems%20in%20Godot-ff2e97)
 
@@ -44,6 +52,20 @@ git push
 - Whatever is on `main` at the deadline is what gets graded. **Verify on github.com** that your latest push is actually there.
 - If autograding is configured for the lab, results appear on your assignment's *My Submission* page after each push.
 
+## Your Submission
+
+**Complete this section before the deadline** — it is part of your graded submission. Edit this README directly.
+
+### Screenshot
+
+Take the screenshot the lab's Canvas page asks for, commit it to this repo (e.g. `screenshot.png`), and embed it by replacing the placeholder below:
+
+![My screenshot](screenshot.png)
+
+### Reflection
+
+*Replace this line with the short reflection the lab's Canvas page asks for.*
+
 ## Repo rules
 
 - Never commit the `.godot/` folder or exported builds; the `.gitignore` handles this, so do not delete or edit it.
@@ -63,3 +85,7 @@ Shipping uncredited or unlicensed assets is an academic honesty violation in thi
 ## Academic honesty
 
 Labs are **individual**. Discussing concepts and debugging strategies is encouraged; copying code from classmates, previous semesters, or elsewhere is not. Generative AI may help you explore and study, but you must be able to **explain, reproduce, and defend** everything you submit, and any AI assistance must be **disclosed** in your submission. See the syllabus for the full policy.
+
+## Getting help
+
+Bring questions to class, come to **student hours** (MW 10:15–11:15 AM and T/Th 11:15 AM–12:15 PM, Ford 210, or book at [lpcordova.phd/meet](https://lpcordova.phd/meet)), or email [LPCordova@willamette.edu](mailto:LPCordova@willamette.edu). Setup problems are exactly what student hours are for — bring your laptop.
